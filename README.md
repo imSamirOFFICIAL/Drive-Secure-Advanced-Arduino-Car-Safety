@@ -1,2 +1,4 @@
-# DriveSecure: Advanced Arduino Car Safety
+# Drive Secure: Advanced Arduino Car Safety
 This project aims to enhance vehicle safety using an Arduino-based system. The system integrates various sensors and components such as hall effect sensors, ultrasonic sensors, temperature sensors, LEDs, and a motor controller. Through real-time monitoring and control, the system ensures seat belt usage, prevents collision through distance detection, manages speed, and alerts the driver in case of potentially hazardous conditions like alcohol detection and high temperature. The project highlights the integration of these technologies to create a comprehensive car safety solution, demonstrating the potential of embedded systems in enhancing road safety.
+
+<p align="center"><img src="https://user-images.githubusercontent.com/52858312/264367768-cdf6fb7d-f225-4312-ab7d-3ed4da8a61f5.jpg"width=30% height=30%></p>
