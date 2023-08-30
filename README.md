@@ -18,7 +18,10 @@ This project aims to enhance vehicle safety using an Arduino-based system. The s
 > 12. Push Button (2x)
 > 13. White (2x) & Red (3x) LED
 > 14. 220 Ω Resistor (5x)
-> 15. 3000mAh 3.7v Battery
+> 15. 3000mAh 3.7v Battery (2x)
+
+# NOTE: Connect all the components as per the code
+Here, SeatBeltPin and OdometerPin are `Hall Effect Sensor`, and AcceleratorPin is `Potentiometer`
 
 # Arduino Code:
     #include  <Wire.h>
