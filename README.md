@@ -3,6 +3,23 @@ This project aims to enhance vehicle safety using an Arduino-based system. The s
 
 <p align="center"><img src="https://user-images.githubusercontent.com/52858312/264367768-cdf6fb7d-f225-4312-ab7d-3ed4da8a61f5.jpg"width=30% height=30%></p>
 
+# Component List:
+> 1. Arduino Uno R3
+> 2. MQ-3 Alcohol Detector Gas Sensor
+> 3. A3144 Hall Effect Sensor
+> 4. HC-SR04 Ultrasonic Distance Sensor
+> 5. LM35 Temperature Sensor
+> 6. 16x2 I2C LCD Module Display
+> 7. L293D Motor Driver Shield
+> 8. DC Geared Motor
+> 9. Plastic Mag Wheel
+> 10. 100K Potentiometer
+> 11. Active Buzzer
+> 12. Push Button
+> 13. White & Red LED
+> 14. 220 Ω Resistor
+> 15. 3000mAh 3.7v Battery
+
 # Arduino Code:
     #include  <Wire.h>
     
