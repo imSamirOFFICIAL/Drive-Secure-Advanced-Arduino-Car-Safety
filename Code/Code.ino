@@ -120,10 +120,10 @@ void loop() {
       magnetDetected2 = false;
     }
   
+    motor1.run(FORWARD);
     motor2.run(FORWARD);
-    motor2.run(FORWARD);
-    motor2.run(FORWARD);
-    motor2.run(FORWARD);
+    motor3.run(FORWARD);
+    motor4.run(FORWARD);
   }
   
   lcd.setCursor(0, 0);
