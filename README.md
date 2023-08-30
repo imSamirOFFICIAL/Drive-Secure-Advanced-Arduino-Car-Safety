@@ -247,13 +247,13 @@ This project aims to enhance vehicle safety using an Arduino-based system. The s
     
     }
     
-    motor2.run(FORWARD);
+    motor1.run(FORWARD);
     
     motor2.run(FORWARD);
     
-    motor2.run(FORWARD);
+    motor3.run(FORWARD);
     
-    motor2.run(FORWARD);
+    motor4.run(FORWARD);
     
     }
     
