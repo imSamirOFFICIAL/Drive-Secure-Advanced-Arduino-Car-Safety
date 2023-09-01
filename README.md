@@ -21,25 +21,19 @@ This project aims to enhance vehicle safety using an Arduino-based system. The s
 > 15. 3000mAh 3.7v Battery (2x)
 
 # Feature List:
-#### 1. Alcohol Detection
-#### 2. Seat Belt Detection
-#### 3. Obstacle Collision Avoidance System
-#### 4. Engine Temperature Monitoring System
-#### 5. Odometer
-
-#### 1. Alcohol Detection:: 
+#### 1. Alcohol Detection:
 The project incorporates the MQ-3 Alcohol Detector Gas Sensor to detect the presence of alcohol in the vicinity, ensuring that the driver is not under the influence while operating the car.
 
-#### 2. Seat Belt Detection:: 
+#### 2. Seat Belt Detection:
 The system includes a seat belt detection mechanism using the hall effect sensor. It promotes safety by alerting the driver to fasten their seat belt before starting the vehicle.
 
-#### 3. Obstacle Collision Avoidance System:: 
+#### 3. Obstacle Collision Avoidance System:
 The HC-SR04 Ultrasonic Distance Sensor helps prevent collisions by measuring the distance to obstacles in real time. The system triggers automatic braking if an obstacle is detected too close to the vehicle.
 
-#### 4. Engine Temperature Monitoring System:: 
+#### 4. Engine Temperature Monitoring System:
 The LM35 Temperature Sensor monitors the engine’s temperature. If the temperature exceeds a certain threshold, the system alerts the driver and initiates safety measures to prevent overheating.
 
-#### 5. Odometer: 
+#### 5. Odometer:
 The Odometer feature utilizes the A3144 Hall Effect Sensor to track the rotation of the car’s wheels. This data is then used to calculate the distance traveled by the vehicle.
 
 # NOTE: Connect all the components as per the code
