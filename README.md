@@ -39,7 +39,8 @@ The HC-SR04 Ultrasonic Distance Sensor helps prevent collisions by measuring the
 #### 4. Engine Temperature Monitoring System:: 
 The LM35 Temperature Sensor monitors the engine’s temperature. If the temperature exceeds a certain threshold, the system alerts the driver and initiates safety measures to prevent overheating.
 
-
+#### 5. Odometer: 
+The Odometer feature utilizes the A3144 Hall Effect Sensor to track the rotation of the car’s wheels. This data is then used to calculate the distance traveled by the vehicle.
 
 # NOTE: Connect all the components as per the code
 Here, SeatBeltPin and OdometerPin are `Hall Effect Sensor`, and AcceleratorPin is `Potentiometer`
