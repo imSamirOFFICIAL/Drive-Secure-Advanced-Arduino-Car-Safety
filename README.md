@@ -27,7 +27,8 @@ This project aims to enhance vehicle safety using an Arduino-based system. The s
 #### 4. Engine Temperature Monitoring System
 #### 5. Odometer
 
-
+#### 1. Alcohol Detection:: 
+The project incorporates the MQ-3 Alcohol Detector Gas Sensor to detect the presence of alcohol in the vicinity, ensuring that the driver is not under the influence while operating the car.
 
 # NOTE: Connect all the components as per the code
 Here, SeatBeltPin and OdometerPin are `Hall Effect Sensor`, and AcceleratorPin is `Potentiometer`
