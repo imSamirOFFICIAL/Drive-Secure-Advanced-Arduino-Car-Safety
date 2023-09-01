@@ -33,6 +33,14 @@ The project incorporates the MQ-3 Alcohol Detector Gas Sensor to detect the pres
 #### 2. Seat Belt Detection:: 
 The system includes a seat belt detection mechanism using the hall effect sensor. It promotes safety by alerting the driver to fasten their seat belt before starting the vehicle.
 
+#### 3. Obstacle Collision Avoidance System:: 
+The HC-SR04 Ultrasonic Distance Sensor helps prevent collisions by measuring the distance to obstacles in real time. The system triggers automatic braking if an obstacle is detected too close to the vehicle.
+
+#### 4. Engine Temperature Monitoring System:: 
+The LM35 Temperature Sensor monitors the engine’s temperature. If the temperature exceeds a certain threshold, the system alerts the driver and initiates safety measures to prevent overheating.
+
+
+
 # NOTE: Connect all the components as per the code
 Here, SeatBeltPin and OdometerPin are `Hall Effect Sensor`, and AcceleratorPin is `Potentiometer`
 
