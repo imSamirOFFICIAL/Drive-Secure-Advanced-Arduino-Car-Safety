@@ -30,6 +30,9 @@ This project aims to enhance vehicle safety using an Arduino-based system. The s
 #### 1. Alcohol Detection:: 
 The project incorporates the MQ-3 Alcohol Detector Gas Sensor to detect the presence of alcohol in the vicinity, ensuring that the driver is not under the influence while operating the car.
 
+#### 2. Seat Belt Detection:: 
+The system includes a seat belt detection mechanism using the hall effect sensor. It promotes safety by alerting the driver to fasten their seat belt before starting the vehicle.
+
 # NOTE: Connect all the components as per the code
 Here, SeatBeltPin and OdometerPin are `Hall Effect Sensor`, and AcceleratorPin is `Potentiometer`
 
