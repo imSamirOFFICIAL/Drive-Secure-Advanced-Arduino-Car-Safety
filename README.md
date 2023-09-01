@@ -37,7 +37,7 @@ The LM35 Temperature Sensor monitors the engine’s temperature. If the temperat
 The Odometer feature utilizes the A3144 Hall Effect Sensor to track the rotation of the car’s wheels. This data is then used to calculate the distance traveled by the vehicle.
 
 #### 6. Accelerator Control: 
-The project incorporates a 100K Potentiometer, which serves as an accelerator control mechanism. When the driver adjusts the potentiometer, it changes the analog voltage input to the Arduino. The Arduino, in turn, interprets this input and adjusts the motor speed accordingly. This feature allows the driver to control the speed of the vehicle manually. Turning the potentiometer in one direction increases the speed while turning it in the opposite direction decreases the speed. It provides the driver with fine-grained control over the vehicle's acceleration and deceleration, enhancing the driving experience and safety.
+The project integrates a 100K Potentiometer as an accelerator. The driver adjusts it to vary the analog input to the Arduino, which responds by changing the motor speed. This feature offers manual speed control-turning the potentiometer increases or decreases speed. It provides precise control, enhancing both safety and driving experience.
 
 # NOTE: Connect all the components as per the code
 Here, SeatBeltPin and OdometerPin are `Hall Effect Sensor`, and AcceleratorPin is `Potentiometer`
