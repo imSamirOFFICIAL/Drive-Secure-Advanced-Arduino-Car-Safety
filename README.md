@@ -20,6 +20,15 @@ This project aims to enhance vehicle safety using an Arduino-based system. The s
 > 14. 220 Ω Resistor (5x)
 > 15. 3000mAh 3.7v Battery (2x)
 
+# Feature List:
+#### 1. Alcohol Detection
+#### 2. Seat Belt Detection
+#### 3. Obstacle Collision Avoidance System
+#### 4. Engine Temperature Monitoring System
+#### 5. Odometer
+
+
+
 # NOTE: Connect all the components as per the code
 Here, SeatBeltPin and OdometerPin are `Hall Effect Sensor`, and AcceleratorPin is `Potentiometer`
 
